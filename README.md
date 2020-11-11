@@ -7,6 +7,11 @@
 
 Haxball bot for power HotSmall Challenge.
 
+## Donate
+Please donate and support this project by [Patreon](https://www.patreon.com/dapucita) !
+
+위 페이지에서 기부하여 이 프로젝트를 지원해주세요!
+
 ## Features
 You can power headless game host for haxball with hotsmall map.
 

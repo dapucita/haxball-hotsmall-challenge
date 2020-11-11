@@ -7,6 +7,11 @@
 
 핫스몰 챌린지를 운영하는 헥스볼 봇입니다.
 
+## 기부와 지원
+Please donate and support this project by [Patreon](https://www.patreon.com/dapucita) !
+
+위 페이지에서 기부하여 이 프로젝트를 지원해주세요!
+
 ## 특징
 일대일로 승부하는 핫스몰 챌린지를 운영할 수 있습니다.
 
