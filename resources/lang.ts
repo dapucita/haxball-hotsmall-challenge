@@ -17,7 +17,7 @@ export const command = {
         ,streak: '📑 !streak : 현재 진행중인 연승 기록을 보여줍니다.'
         ,rank: '📑 !rank :  상위 플레이어의 전적을 보여줍니다.'
     }
-    ,about: '📄 이 방은 Haxbotron🤖 봇에 의해 운영됩니다. 봇 시작 {_LaunchTime}.\n💬 [디스코드 채팅] https://discord.gg/qfg45B2'
+    ,about: '📄 이 방은 Haxbotron🤖 봇에 의해 운영됩니다. 봇 시작 {_LaunchTime}.\n💬 [디스코드] https://discord.gg/qfg45B2 [후원하기] https://www.patreon.com/dapucita'
     ,stats: {
         _ErrorNoPlayer: '❌ 접속중이지 않습니다. #숫자아이디 의 형식이어야 합니다. (예: !stats #12)'
         ,statsMsg: '📊 {targetName}#{targetID}님의 전적 : 총 {targetStatsTotal}판(승률 {targetStatsWinRate}%), 골 {targetStatsGoals}, 자책 {targetStatsOgs}, 실점 {targetStatsLosepoints}\n📊 (이어서) 경기당 {targetStatsGoalsPerGame}골, {targetStatsOgsPerGame}자책, {targetStatsLostGoalsPerGame}실점\n📊 (이어서) {targetStatsStreaks}연승을 기록했으며 최고기록은 {targetStatsBestrecord}연승입니다.'
